@@ -1,4 +1,4 @@
 t3extensions
 ============
 
-Contains different typo3 extension
+Contains different Typo3 extensions.
